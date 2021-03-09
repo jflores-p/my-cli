@@ -1,5 +1,7 @@
 # CLI para acotar uso de api's
 
+![Actions](https://github.com/jflores-p/my-cli/actions/workflows/main.yml/badge.svg)
+
 Prueba y práctica
 
 ### Contenido
